@@ -11,7 +11,7 @@
 2. Place your input CSV file in the project directory.
 3. Run the command:
   php parser.php --file=products_comma_separated.csv --unique-combinations=combination_count.csv
-Replace `products_comma_separated.csv` with your input file.
+4. Replace `products_comma_separated.csv` with your input file.
 
 ## Features
 
